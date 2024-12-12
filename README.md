@@ -1,2 +1,2 @@
-# se-ales-2
+# SEÑALES
 ejercicios
